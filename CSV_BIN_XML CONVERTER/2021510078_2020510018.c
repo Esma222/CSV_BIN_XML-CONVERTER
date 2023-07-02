@@ -9,7 +9,7 @@
 
 // Struct that holds the customer information we get from the csv file
 // We made the size of the char arrays according to the xsd constraints
-// we determined the sizes of the non-restrictions ourselves
+// we determined the sizes of the non-restrictions ourselves .
 typedef struct
 {
     char name[20];
